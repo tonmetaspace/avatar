@@ -319,6 +319,7 @@ button.primary:focus {
   }
   .appName {
     font-size: 24pt;
+    font-weight: 900;
   }
   .menu {
     bottom: 85px;
