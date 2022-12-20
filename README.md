@@ -29,7 +29,7 @@ The 3D models used in this app are ©2020-2022 by individual [mozilla.org](https
 
 We invite the community to use this editor as a template for creating and hosting new avatar tools. The code is released under the [MPL 2.0 license](./LICENSE) and we'd love to see what you make with it! Here's a bit about how the editor works:
 
-- The avatar that you see is comprised of different pieces that were designed to work on the same skeleton and body format. [Models](https://github.com/mozilla/hackweek-avatar-maker/tree/main/assets/models) for each piece and category are saved with a specific naming convention, which allows the app to correctly put them into a category depending on where the accessory should be placed on the base model.
+- The avatar that you see is comprised of different pieces that were designed to work on the same skeleton and body format. [Models](https://github.com/DAO-TON-CON/avatar/tree/main/assets/models) for each piece and category are saved with a specific naming convention, which allows the app to correctly put them into a category depending on where the accessory should be placed on the base model.
 
 - A script takes screenshots of the pieces that are contained in the `assets/models` directory and uses these to indicate the different pieces that can be selected from.
 
