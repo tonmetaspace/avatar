@@ -1,4 +1,6 @@
 # TON Metaspace Avatar Maker
+[TON Metaspace Avatar Maker](https://github.com/tonmetaspace/avatar-maker)
+[PhysX WASM for Webaverse client](https://github.com/tonmetaspace/avatars-wasm)
 
 ## How can I customize my avatar?
 When you first enter the Metaspace, you can choose an avatar to represent yourself. You can choose one of the pre-made avatars or create your own. You can also set a display name that will be visible to everyone else in the room.
